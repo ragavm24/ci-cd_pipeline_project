@@ -1,13 +1,13 @@
-package com.simplilearn.Calculator;
+package com.simplilearn.demo3;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CalculatorApplication {
+public class Demo3Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CalculatorApplication.class, args);
+		SpringApplication.run(Demo3Application.class, args);
 	}
 
 }
